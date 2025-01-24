@@ -16,6 +16,12 @@ public class Friday03_2025 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hey, How are you? ");
+
+        //making other changes
+        String name = "George";
+        System.out.println("His name is" + name);
     }
+
+    
     
 }
