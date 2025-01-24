@@ -18,7 +18,7 @@ public class Friday03_2025 {
         System.out.println("Hey, How are you? ");
 
         //making other changes
-        String name = "George";
+        String name = "Tommy";
         System.out.println("His name is" + name);
     }
 
